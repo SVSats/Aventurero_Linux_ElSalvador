@@ -1,4 +1,4 @@
- 🐧 Aprende Linux desde Cero
+ 🐧 Conviertete en Aventurero Aprendiendo Linux .-
 
 Libro interactivo para **niños y jóvenes de El Salvador 🇸🇻**  
 Basado en **Jupyter Book**, con notebooks interactivos y versiones en PDF.
